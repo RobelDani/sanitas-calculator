@@ -12,7 +12,7 @@ Create a folder in the desired location, as a tip, create in "C:/Calculator" and
 button inside the created folder click to open a command console "Open command windows here".
 Type in the console the following command:
 
-* git clone http://REPOSITORY
+* git clone https://github.com/RobelDani/sanitas-calculator.git
 
 After downloading the project
 
