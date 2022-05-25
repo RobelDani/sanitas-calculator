@@ -74,7 +74,7 @@ Response
         "result": 9
     }
 
-![Subtract](images/plus.png)
+![Subtract](images/subtract.png)
 
 # Autor
 
